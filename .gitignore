@@ -1,0 +1,21 @@
+# Terraform
+terraform/.terraform/
+terraform/*.tfstate
+terraform/*.tfstate.*
+terraform/.terraform.lock.hcl
+
+# Terraform crash logs
+crash.log
+
+# AWS / CLI
+.aws/
+.env
+
+# OS / Editor
+*.swp
+*.tmp
+.DS_Store
+
+# Kubernetes generated files
+kubeconfig
+
