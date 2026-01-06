@@ -12,6 +12,21 @@ The project follows **real industry practices**:
 
 ---
 
+## 🐳 Docker Image Used
+
+This project uses a public Docker image for the 2048 game:
+
+- **Image:** [`cnrock/2048`](https://hub.docker.com/r/cnrock/2048)
+- **Registry:** [`Docker Hub`](https://hub.docker.com/r/cnrock/2048)
+
+Pull the image locally (optional):
+
+```bash
+docker pull cnrock/2048
+```
+
+---
+
 ## 🏗 Architecture Overview
 
 ![Architecture Diagram](screenshots/Architecture_diagram.png)
