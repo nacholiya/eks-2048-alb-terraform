@@ -14,7 +14,7 @@ The project follows **real industry practices**:
 
 ## 🏗 Architecture Overview
 
-![Architecture Diagram](screenshots/architecture_diagram.png)
+![Architecture Diagram](screenshots/Architecture_diagram.png)
 
 ### Architecture Flow
 1. User (Browser)
